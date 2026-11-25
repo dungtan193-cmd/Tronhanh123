@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-11-13T00:58:52.838629",
+  "source": "http://localhost:8000/api/ai/gis/research/features",
+  "total_rooms": 0,
+  "minimum_training_rooms": 30,
+  "status": "insufficient_data"
+}

@@ -1,0 +1,2 @@
+﻿model,n_samples,MAE,RMSE,R2,evaluation
+Stacking_XGBoost_LightGBM_CatBoost,31,415828.5320403736,602776.0620159643,0.735370973297061,3-fold CV - technical demo

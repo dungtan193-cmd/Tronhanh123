@@ -1,0 +1,18 @@
+﻿feature,mean_abs_shap
+numeric__area,784981.94
+numeric__latitude,76219.766
+numeric__parks_1km,48661.08
+categorical__district_bắc từ liêm,22078.023
+categorical__district_đống đa,18641.658
+numeric__schools_1km,16056.191
+numeric__universities_1km,9766.445
+numeric__hospitals_1km,8493.093
+numeric__nearest_university_m,7629.916
+numeric__total_pois_1km,7618.064
+numeric__longitude,4777.4233
+categorical__district_thanh xuân,934.64465
+numeric__bus_stops_1km,0.0
+categorical__district_gia lâm,0.0
+categorical__district_cầu giấy,0.0
+categorical__district_hà đông,0.0
+categorical__district_hai bà trưng,0.0

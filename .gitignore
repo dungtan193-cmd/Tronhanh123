@@ -1,0 +1,78 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Cache and logs
+.pytest_cache/
+.mypy_cache/
+*.log
+
+# Database
+*.sqlite3
+*.db
+*.dump
+*.backup
+
+# Temporary files
+.DS_Store
+Thumbs.db
+cau_truc.txt
+# Large and temporary project files
+catboost_info/
+vietnam-*.osm.pbf
+
+# Local backups
+backups/
+
+# Uploaded user files
+uploads/
+# Build and cache
+.pytest_cache/
+__pycache__/
+*.pyc
+dist/
+node_modules/
+osm_cache_buoc85/
+
+# Private configuration
+.env
+.env.*
+!.env.example
+
+# Database backups
+*.dump
+*.backup
+*.sqlite3
+*.db
+
+# Large map data
+*.osm.pbf
+
+# Local and temporary folders
+backups/
+uploads/
+catboost_info/
+# Old source backups
+**/*backup*
+**/*.bak
+**/*truoc*
+# Backup files
+**/*.bak*
+**/*backup*
+**/*truoc*
